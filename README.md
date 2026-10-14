@@ -53,5 +53,5 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Hisham Emad El Rifai](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  *(قم بتعديل هذا الرابط برابط حسابك الشخصي)*
-- **Email:** hishammm7717@gmail.com
+- **LinkedIn:** [Hisham Emad El Rifai](https://www.linkedin.com/in/https://www.linkedin.com/in/hisham-el-rifai-82ba55378/?isSelfProfile=true)  *(قم بتعديل هذا الرابط برابط حسابك الشخصي)*
+- **Email:** Hishammm77717@gmail.com
