@@ -1,7 +1,7 @@
 ### Hi there, I'm Hisham Emad 👋
 
 🎓 **Undergraduate Software Engineering Student** at the Faculty of Computers and Information Technology, New Mansoura University (Student ID: 224101239).  
-🚀 **Aspiring Data Engineer & Backend Developer** passionate about building scalable, production-grade distributed data architectures, real-time streaming systems, high-performance database optimization, and modern lakehouses.
+🚀 ** Data Engineer & Analyics Engineer** passionate about building scalable, production-grade distributed data architectures, real-time streaming systems, high-performance database optimization, and modern lakehouses.
 
 ---
 
