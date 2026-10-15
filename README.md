@@ -27,7 +27,7 @@
 
 ---
 
-### 📌 Featured Primary Project
+### 📌 Featured Project
 
 - **[Ecom-Lakehouse-End-to-End-data-Pipeline](https://github.com/Hisham11Computer/Ecom-Lakehouse-End-to-End-data-Pipeline):**
   - **Overview:** A fully containerized, production-grade real-time and batch e-commerce data platform. It captures transactional changes from PostgreSQL via Debezium & Kafka, processes them through a multi-hop Lakehouse (Bronze/Silver/Gold) on S3 using PySpark and Delta Lake, and orchestrates workflows with Apache Airflow.
