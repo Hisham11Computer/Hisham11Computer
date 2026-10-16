@@ -41,10 +41,11 @@
 
 ### 💻 Other Notable Database & Analysis Projects 
 
-I built RouteMasterX, a MySQL database for fleet tracking and shipment logistics. The database itself enforces the business rules (no double-booked vehicles, automatic speeding detection, capacity-aware shipment assignment) and exposes geospatial analytics such as nearest-vehicle search and speeding hotspots. It ships with Docker Compose, a SQL test suite and a CI pipeline. Code and architecture write-up on GitHub: [https://github.com/Hisham11Computer/fleet-management-db]
+**[RouteMasterX](https://github.com/Hisham11Computer/fleet-management-db)**
+A MySQL database for fleet tracking and shipment logistics. The database itself enforces the business rules (no double-booked vehicles, automatic speeding detection, capacity-aware shipment assignment) and exposes geospatial analytics such as nearest-vehicle search and speeding hotspots. Ships with Docker Compose, a SQL test suite and a CI pipeline.
 
-I built an E-Commerce Database Optimization project to see how indexing changes query performance at realistic scale. I generated a 200K+ order dataset with Python (Faker), then used EXPLAIN and Visual Explain to find the queries doing full table scans and inefficient joins. I fixed them with single-column and composite indexes and documented before/after execution plans and benchmarks for each change. Code and architecture write-up on GitHub: https://github.com/Hisham11Computer/E-Commerce-Database-Optimization
---- 
+**[E-Commerce Database Optimization](https://github.com/Hisham11Computer/E-Commerce-Database-Optimization)**
+Indexing study on a 200K+ order dataset generated with Python (Faker). Used EXPLAIN and Visual Explain to find full table scans and inefficient joins, fixed them with single-column and composite indexes, and documented before/after execution plans and benchmarks.
 
 ### 📚 Academic & Software Engineering Coursework
 
