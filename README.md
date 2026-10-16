@@ -43,8 +43,7 @@
 
 I built RouteMasterX, a MySQL database for fleet tracking and shipment logistics. The database itself enforces the business rules (no double-booked vehicles, automatic speeding detection, capacity-aware shipment assignment) and exposes geospatial analytics such as nearest-vehicle search and speeding hotspots. It ships with Docker Compose, a SQL test suite and a CI pipeline. Code and architecture write-up on GitHub: [https://github.com/Hisham11Computer/fleet-management-db]
 
-MySQL performance tuning on a 200K+ order e-commerce dataset: EXPLAIN analysis, composite indexing and before/after benchmarks.
-Code and architecture write-up on GitHub:[https://github.com/Hisham11Computer/E-Commerce-Database-Optimization]
+I built an E-Commerce Database Optimization project to see how indexing changes query performance at realistic scale. I generated a 200K+ order dataset with Python (Faker), then used EXPLAIN and Visual Explain to find the queries doing full table scans and inefficient joins. I fixed them with single-column and composite indexes and documented before/after execution plans and benchmarks for each change. Code and architecture write-up on GitHub: https://github.com/Hisham11Computer/E-Commerce-Database-Optimization
 --- 
 
 ### 📚 Academic & Software Engineering Coursework
