@@ -39,17 +39,13 @@
 
 ---
 
-### 💻 Other Notable Database & Analysis Projects (Under Development / Documented)
+### 💻 Other Notable Database & Analysis Projects 
 
-1. **GPS Live Tracking & Shipping Logistics Database System** *(Databases & Backend Optimization)*
-   - Engineered a robust relational database schema to handle high-frequency GPS live logs and vehicle tracking.
-   - Leveraged advanced SQL optimization techniques, custom indexing strategies, and `EXPLAIN` execution plan analysis to eliminate bottlenecks during heavy transactional workloads.
+I built RouteMasterX, a MySQL database for fleet tracking and shipment logistics. The database itself enforces the business rules (no double-booked vehicles, automatic speeding detection, capacity-aware shipment assignment) and exposes geospatial analytics such as nearest-vehicle search and speeding hotspots. It ships with Docker Compose, a SQL test suite and a CI pipeline. Code and architecture write-up on GitHub: [https://github.com/Hisham11Computer/fleet-management-db]
 
-2. **Gym Performance Analytics & BI Dashboard** *(Data Analysis)*
-   - Connected raw operational database metrics to interactive Power BI dashboards.
-   - Built custom DAX measures, Power Query transformations, and dark-mode reports to analyze user retention, membership metrics, and revenue trends.
-
----
+MySQL performance tuning on a 200K+ order e-commerce dataset: EXPLAIN analysis, composite indexing and before/after benchmarks.
+Code and architecture write-up on GitHub:[https://github.com/Hisham11Computer/E-Commerce-Database-Optimization]
+--- 
 
 ### 📚 Academic & Software Engineering Coursework
 
