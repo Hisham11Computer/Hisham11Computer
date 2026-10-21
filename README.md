@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hisham%20Emad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Real-Time%20CDC%20%26%20Lakehouse%20Pipelines&descSize=20&descAlignY=60" alt="Hisham Emad">
-</p>
+<h1 align="center">Hisham Emad</h1>
+
+<h3 align="center">Data Engineer &nbsp;|&nbsp; Analytics Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+real-time+CDC+pipelines;Kafka+%C2%B7+Debezium+%C2%B7+Spark+%C2%B7+Delta+Lake;Bronze+%E2%86%92+Silver+%E2%86%92+Gold+lakehouses;Fast+SQL%3A+indexing+%26+query+tuning" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=900&height=40&lines=Data+Engineer+%7C+Analytics+Engineer;Real-Time+CDC+%3A+Debezium+%C2%B7+Kafka+%C2%B7+Spark+Streaming;Lakehouse+%3A+Delta+Lake+%C2%B7+Iceberg+%C2%B7+Bronze%2FSilver%2FGold;Orchestration+%3A+Airflow+%C2%B7+Docker+Compose;Data+Quality+%3A+Great+Expectations;AWS+%3A+S3+%C2%B7+Glue+%C2%B7+Athena;Databases+%3A+PostgreSQL+%C2%B7+MySQL+%C2%B7+SQL+Server;Query+Tuning+%3A+EXPLAIN+%C2%B7+Indexing+%C2%B7+Benchmarks;Data+Analytics+%3A+SQL+%C2%B7+Power+BI+%C2%B7+DAX+%C2%B7+Python" alt="Typing animation">
   </a>
 </p>
 
@@ -19,7 +19,12 @@
 
 ## 👋 About Me
 
-I build data pipelines and data platforms end to end: capturing changes from transactional databases, streaming them through Kafka, processing them in a Bronze / Silver / Gold lakehouse, and serving clean data for analytics. I also care a lot about database performance: reading execution plans, fixing slow queries with the right indexes, and proving the improvement with benchmarks.
+I'm a **Data Engineer and Analytics Engineer** and a Software Engineering student at New Mansoura University (2024 – 2028) in Egypt. I work across the whole data lifecycle:
+
+- **Data Engineering (my core):** real-time CDC pipelines, streaming, and Bronze / Silver / Gold lakehouses, orchestrated and containerized.
+- **Analytics Engineering:** clean, tested, analysis-ready models with data-quality gates between layers.
+- **Databases:** schema design, business rules enforced in the database, and query tuning with `EXPLAIN` and indexing.
+- **Data Analytics:** advanced SQL (CTEs, window functions) and interactive Power BI dashboards that answer real business questions.
 
 ## ⚡ What I Do Best
 
@@ -193,10 +198,7 @@ Coursework: Algorithms & Data Structures (C#), System Analysis & Design (Team Le
 I'm looking for opportunities to grow as a data engineer. If you're hiring or want to talk data, reach out:
 
 <p>
-  <a href="https://www.linkedin.com/in/hisham-emad-82ba55378/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20El%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hisham-el-rifai-82ba55378/"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20El%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hishammm77717@gmail.com"><img src="https://img.shields.io/badge/Email-hishammm77717%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="footer">
-</p>
