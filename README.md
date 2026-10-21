@@ -19,8 +19,7 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineering student** at New Mansoura University (2024 – 2028) in Egypt, focused on **Data Engineering**.
-I build data platforms end to end: capturing database changes in real time, processing them through a lakehouse, protecting quality with automated gates, and serving clean data for analytics.
+I build data pipelines and data platforms end to end: capturing changes from transactional databases, streaming them through Kafka, processing them in a Bronze / Silver / Gold lakehouse, and serving clean data for analytics. I also care a lot about database performance: reading execution plans, fixing slow queries with the right indexes, and proving the improvement with benchmarks.
 
 ## ⚡ What I Do Best
 
