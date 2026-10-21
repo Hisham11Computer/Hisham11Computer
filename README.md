@@ -196,6 +196,6 @@ An end-to-end analytics project: a normalized SQL database of gym members, worko
 I'm looking for opportunities to grow as a data engineer. If you're hiring or want to talk data, reach out:
 
 <p>
-  <a href="https://www.linkedin.com/in/hisham-emad-82ba55378/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20El%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hisham-emad-82ba55378/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20Emad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hishammm77717@gmail.com"><img src="https://img.shields.io/badge/Email-hishammm77717%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
