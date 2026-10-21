@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=900&height=40&lines=Data+Engineer+%7C+Analytics+Engineer;Real-Time+CDC+%3A+Debezium+%C2%B7+Kafka+%C2%B7+Spark+Streaming;Lakehouse+%3A+Delta+Lake+%C2%B7+Iceberg+%C2%B7+Bronze%2FSilver%2FGold;Orchestration+%3A+Airflow+%C2%B7+Docker+Compose;Data+Quality+%3A+Great+Expectations;AWS+%3A+S3+%C2%B7+Glue+%C2%B7+Athena;Databases+%3A+PostgreSQL+%C2%B7+MySQL+%C2%B7+SQL+Server;Query+Tuning+%3A+EXPLAIN+%C2%B7+Indexing+%C2%B7+Benchmarks;Data+Analytics+%3A+SQL+%C2%B7+Power+BI+%C2%B7+DAX+%C2%B7+Python" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=900&height=40&lines=I+build+real-time+CDC+pipelines;I+stream+database+changes+with+Debezium+and+Kafka;I+design+Bronze+%2F+Silver+%2F+Gold+lakehouses;I+orchestrate+pipelines+with+Airflow+and+Docker;I+protect+data+quality+with+automated+gates;I+tune+SQL+queries+with+EXPLAIN+and+indexes;I+design+databases+that+enforce+business+rules;I+turn+raw+data+into+insights+with+SQL+and+Power+BI" alt="Typing animation">
   </a>
 </p>
 
@@ -189,8 +189,6 @@ An end-to-end analytics project: a normalized SQL database of gym members, worko
 
 **B.Sc. in Software Engineering**, Faculty of Computers and Information Technology, New Mansoura University (2024 – 2028)
 
-Coursework: Algorithms & Data Structures (C#), System Analysis & Design (Team Leader of the *Smart University System* project), Computer Architecture (8086 Assembly).
-
 ---
 
 ## 📫 Let's Connect
@@ -198,7 +196,6 @@ Coursework: Algorithms & Data Structures (C#), System Analysis & Design (Team Le
 I'm looking for opportunities to grow as a data engineer. If you're hiring or want to talk data, reach out:
 
 <p>
-  <a href="https://www.linkedin.com/in/hisham-el-rifai-82ba55378/"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20El%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hisham-emad-82ba55378/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Hisham%20El%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hishammm77717@gmail.com"><img src="https://img.shields.io/badge/Email-hishammm77717%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
